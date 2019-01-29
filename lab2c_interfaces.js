@@ -1,0 +1,4 @@
+"use strict";
+//CREATING AN INTERFACE BELOW
+//CREATING A CONTRACT ,CLASSES HAVE TO OBEY
+exports.__esModule = true;
